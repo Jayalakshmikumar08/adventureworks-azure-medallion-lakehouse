@@ -15,15 +15,7 @@ The goal is to show a clear medallion architecture:
 
 ## Architecture
 
-```text
-Sample CSV data
-  -> Azure Data Factory ingestion
-  -> ADLS Gen2 bronze layer
-  -> Databricks PySpark transformations
-  -> ADLS Gen2 silver Parquet layer
-  -> Synapse gold views / external tables
-  -> Power BI-ready model
-```
+![AdventureWorks Azure medallion lakehouse architecture](docs/architecture.svg)
 
 ## Repository Structure
 
