@@ -1,0 +1,52 @@
+[
+  {
+    "source_file": "AdventureWorks_Product_Categories.csv",
+    "sink_folder": "AdventureWorks_Product_Categories",
+    "sink_file": "AdventureWorks_Product_Categories.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Calendar.csv",
+    "sink_folder": "AdventureWorks_Calendar",
+    "sink_file": "AdventureWorks_Calendar.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Customers.csv",
+    "sink_folder": "AdventureWorks_Customers",
+    "sink_file": "AdventureWorks_Customers.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Product_Subcategories.csv",
+    "sink_folder": "AdventureWorks_Product_Subcategories",
+    "sink_file": "AdventureWorks_Product_Subcategories.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Products.csv",
+    "sink_folder": "AdventureWorks_Products",
+    "sink_file": "AdventureWorks_Products.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Returns.csv",
+    "sink_folder": "AdventureWorks_Returns",
+    "sink_file": "AdventureWorks_Returns.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Sales_2015.csv",
+    "sink_folder": "AdventureWorks_Sales_2015",
+    "sink_file": "AdventureWorks_Sales_2015.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Sales_2016.csv",
+    "sink_folder": "AdventureWorks_Sales_2016",
+    "sink_file": "AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Sales_2017.csv",
+    "sink_folder": "AdventureWorks_Sales_2017",
+    "sink_file": "AdventureWorks_Sales_2017.csv"
+  },
+  {
+    "source_file": "AdventureWorks_Territories.csv",
+    "sink_folder": "AdventureWorks_Territories",
+    "sink_file": "AdventureWorks_Territories.csv"
+  }
+]
